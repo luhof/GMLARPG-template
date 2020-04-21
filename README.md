@@ -1,0 +1,2 @@
+# GMLARPG template
+ 
